@@ -1,0 +1,67 @@
+[
+    {
+      "title": "Bose Headphones 700, Noise Cancelling Bluetooth Over-Ear Wireless Headphones with Built-In Microphone for Clear Calls and Alexa Voice Control, Silver Luxe",
+      "id": 1,
+      "price": 264,
+      "description": "This is product 1, it is a great item!",
+      "image": "/image.jpg",
+      "Link": "https://amzn.to/47DS1i5"
+    },
+    {
+      "title": "Csasan Wireless Earbuds, 2023 Bluetooth Headphones 5.3 HiFi Stereo Earphones, 40H Playtime in-Ear Earbud, Bluetooth Earbud with Dual Mic Call, IP7 Waterproof Earphones Sport Headset for iOS",
+      "id": 2,
+      "price": 29.99,
+      "description": "This is product 2, it is an even better item!",
+      "image": "/image2.webp",
+      "Link": "https://amzn.to/47OoxxU"
+    },
+    {
+      "title": "Lenovo 3i Chromebook Laptop - 15.6 Inch Full HD Lenovo Laptop - 8GB Memory - 64GB Storage - Intel Celeron N4500 – 2023 model",
+      "id": 3,
+      "price": 274.99,
+      "description": "This is product 3, it is the best item!",
+      "image": "/image3.jpg",
+      "Link": "https://amzn.to/47HD26D"
+    },
+    {
+      "title": "HyperX Cloud Alpha - Gaming Headset, Dual Chamber Drivers, Legendary Comfort, Aluminum Frame, Detachable Microphone, Works on PC, PS4, PS5, Xbox One/ Series X|S, Nintendo Switch and Mobile – Red",
+      "id": 4,
+      "price": 79.98,
+      "description": "This is product 4, it is a special one.",
+      "image": "/hyperX.jpg",
+      "Link": "https://amzn.to/3UaWiXe"
+    },
+    {
+      "title": "Logitech G502 HERO High Performance Wired Gaming Mouse, HERO 25K Sensor, 25,600 DPI, RGB, Adjustable Weights, 11 Programmable Buttons, On-Board Memory, PC / Mac",
+      "id": 5,
+      "price": 48.58,
+      "description": "This is product 5, it's not as good as the others",
+      "image": "/mouse.webp",
+      "Link": "https://amzn.to/47IVz2o"
+    },
+    {
+      "title": "Razer BlackWidow V4 X - Mechanical Gaming Keyboard: Green Switches Tactile & Clicky - 6 Dedicated Macro Keys - Chroma RGB - Doubleshot ABS Keycaps - Media Controls - Sound Dampening & Stabilizers",
+      "id": 6,
+      "price": 129.99,
+      "description": "This is product 6, it's not as good as the others",
+      "image": "/keyboard.jpg",
+      "Link": "https://amzn.to/3Sr9k1r"
+    },
+    {
+      "title": "RGB Mousepad Led Mouse Pad, Large Mouse Pad,Led and Big Mouse mat",
+      "id": 7,
+      "price": 11.99,
+      "description": "This is product 7, it's not as good as the others",
+      "image": "/mousepad.jpg",
+      "Link": "https://amzn.to/3U9wydz"
+    },
+    {
+      "title": "GTRACING Gaming Chair with Footrest Speakers Video Game Chair Bluetooth Music Heavy Duty Ergonomic Computer Office Desk Chair Red",
+      "id": 8,
+      "price": 159.99,
+      "description": "This is product 8, it's not as good as the others",
+      "image": "/chair.webp",
+      "Link": "https://amzn.to/4b6UXXu"
+    }
+
+  ]
