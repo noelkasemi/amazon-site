@@ -1,10 +1,7 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-    // Specify the distDir as "out"
-    distDir: 'out',
-  
-    // Other configurations...
-  };
-  
-  module.exports = nextConfig;
-  
+ /** @type {import('next').NextConfig} */
+ const nextConfig = {
+    output: "export", // lightweight but no dynamic routes & api support
+    // output: "standalone", // bulkier but supports dynamic routes & api
+}
+
+module.exports = nextConfig
