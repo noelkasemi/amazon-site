@@ -1,4 +1,7 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {}
-
-module.exports = nextConfig
+module.exports = {
+  output: {
+      // Set the path for static export
+      publicPath: '/',
+    },
+  };
+  
