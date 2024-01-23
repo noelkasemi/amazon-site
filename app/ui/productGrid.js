@@ -1,8 +1,7 @@
 import React from "react";
-import products from "../data/products.json";
 import Link from "next/link";
 
-const Product = ({ product }) => (
+const ProductCard = ({ product }) => (
   <section className="bg-white rounded-xl hover:scale-110 transition-transform ease-in-out shadow-xl p-4 max-w-sm w-full mx-auto">
     <Link href={product.Link}>
       <img
@@ -28,9 +27,8 @@ const Product = ({ product }) => (
   </section>
 );
 
-const ProductCard = ({ numberOfProducts }) => {
+const ProductGrid = ({ numberOfProducts, products }) => {
   const productData = products || [];
-  console.log(numberOfProducts);
   const displayedProducts = numberOfProducts
     ? productData.slice(0, numberOfProducts)
     : productData;
@@ -39,11 +37,11 @@ const ProductCard = ({ numberOfProducts }) => {
     <section>
       <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
         {displayedProducts.map((product) => (
-          <Product key={product.id} product={product} />
+          <ProductCard key={product.id} product={product} />
         ))}
       </section>
     </section>
   );
 };
 
-export default ProductCard;
+export default ProductGrid;

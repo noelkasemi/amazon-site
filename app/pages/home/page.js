@@ -3,7 +3,7 @@
 import { useRouter } from 'next/navigation'
 import Footer from "@/app/partials/footer";
 import Header from "@/app/partials/header";
-import ProductCard from "@/app/ui/articleCard";
+import ProductCard from "@/app/ui/productGrid";
 
 export default function HomePage() {
   const router = useRouter()
