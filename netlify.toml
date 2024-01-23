@@ -1,5 +1,0 @@
-# netlify.toml
-[build]
-  command = "npm run build && npm run expor"
-  publish = "out"
-  environment = { NETLIFY_NEXT_PLUGIN_SKIP = "true" }

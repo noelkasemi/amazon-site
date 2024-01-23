@@ -29,7 +29,7 @@ export default function ProductSearch({ data }) {
   return (
     <section className="w-full absolute z-30 -top-3 md:-top-6 md:px-4 ">
       <article className="flex w-full">
-        <SearchIcon style={`absolute top-3 left-2 md:left-6 text-gray-500 `} />
+        <SearchIcon style={`h-6 w-6 absolute top-3 left-2 md:left-6 text-gray-500 `} />
         <input
           value={search}
           onChange={handleSearch}

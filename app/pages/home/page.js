@@ -3,7 +3,8 @@
 import { useRouter } from 'next/navigation'
 import Footer from "@/app/partials/footer";
 import Header from "@/app/partials/header";
-import ProductCard from "@/app/ui/productGrid";
+import products from "@/app/data/products.json"
+import ProductGrid from '@/app/ui/productGrid';
 
 export default function HomePage() {
   const router = useRouter()
@@ -25,7 +26,7 @@ export default function HomePage() {
         <h1 className="text-5xl font-bold  text-blue-950 mt-2">
           Featured products
         </h1>
-        <ProductCard numberOfProducts={4} />
+        <ProductGrid products={products} numberOfProducts={4} />
       </section>
       <Footer />
     </>
