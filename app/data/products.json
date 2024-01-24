@@ -56,12 +56,68 @@
       "Link": "https://amzn.to/3U9wydz"
     },
     {
-      "title": "GTRACING Gaming Chair with Footrest Speakers Video Game Chair Bluetooth Music Heavy Duty Ergonomic Computer Office Desk Chair Red",
-      "id": 8,
-      "price": 159.99,
-      "description": "This is product 8, it's not as good as the others",
-      "image": "/chair.webp",
-      "Link": "https://amzn.to/4b6UXXu"
+      "title": "Sticker Printer - Mini Thermal Printer, T02 Sticker Maker Machine, Portable Bluetooth Pocket Phone Printer for Anatomy Flashcards, Journal, Photos, Notes, Kids Gift, Green",
+      "id": 9,
+      "price": 37.49,
+      "description": "This is product 9, it's not as good as the others",
+      "image": "/printer.jpg",
+      "Link": "https://amzn.to/428MGOB"
+    },
+    {
+      "title": "Keychain Spinner Toy, Portable Keyring Spinner Toy, Finger Keychain Spinner Portable Keychain Spinner, Novelty Keychains for Finger Exercise(2PCS)",
+      "id": 10,
+      "price": 9.99,
+      "description": "This is product 10, it's not as good as the others",
+      "image": "/keychain.jpg",
+      "Link": "https://amzn.to/3u5lVOk"
+    },
+        {
+      "title": "Ultrasonic Humidifiers for Bedroom, cool mist humidifiers Anti Gravity Water Drop with LED Clock Display, 36dB Quiet Air Humidifier with Night Light for room Office 800ml",
+      "id": 11,
+      "price": 59.99,
+      "description": "This is product 11, it's not as good as the others",
+      "image": "/humidifier.jpg",
+      "Link": "https://amzn.to/3vLSzVH"
+    },
+        {
+      "title": "Z ZICOME Magnetic Hourglass Decorative Sand Timer with a Iron Base for Desk Decoration Black",
+      "id": 12,
+      "price": 14.99,
+      "description": "This is product 12, it's not as good as the others",
+      "image": "/hourglass.jpg",
+      "Link": "https://amzn.to/3vObI9w"
+    },    {
+      "title": "CheemZ Toddler Gyro Bowl - Baby Magic Bowl - 360 for Kids Age 1 to 3 Years - Spill-Resistant with Lid and 360° Rotations - Mess-Free Snack Bowls in Blue, Compact Size: 17 x 17 x 7cm",
+      "id": 13,
+      "price": 11.48,
+      "description": "This is product 13, it's not as good as the others",
+      "image": "/gyrobowl.jpg",
+      "Link": "https://amzn.to/4baz0Xf"
+    },
+    {
+      "title": "Waboba The Original Moon Ball - Hyper Bouncy Ball - All Ages Extreme Bounce and Fun - Perfect for Active Play and Outdoor Games",
+      "id": 14,
+      "price": 12.99,
+      "description": "This is product 14, it's not as good as the others",
+      "image": "/moonball.jpg",
+      "Link": "https://amzn.to/4b7dy5E"
+    },
+    {
+      "title": "Self Stirring Coffee Mug 2 Pieces Rotating Home Office Travel Stirring Mug Automatic Magnetic Mug Stirring Coffee Mug Self Stirring Stainless Steel Mug Christmas Gift Birthday Gift (White, Dark Blue)",
+      "id": 15,
+      "price": 27.99,
+      "description": "This is product 15, it's not as good as the others",
+      "image": "/stirringmug.jpg",
+      "Link": "https://amzn.to/4b8mLdW"
+    },
+    {
+      "title": "Mubarek Northern Lights Aurora Projector Light, 18 Colors Lighting Aurora Projector Mood Lighting,Remote Timer Ceiling Projector Lights for Bedroom,Northern Lights Lamp Room Decor for Teen Girls Gifts",
+      "id": 16,
+      "price": 26.89,
+      "description": "This is product 16, it's not as good as the others",
+      "image": "/auroralamp.jpg",
+      "Link": "https://amzn.to/3Obpx8b"
     }
+
 
   ]

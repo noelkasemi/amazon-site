@@ -65,7 +65,7 @@ export default function ProductSearch({ data }) {
                   In stock
                 </p>
                 <p className="font-semibold text-lg">
-                  {((item.price / 100) * 50).toFixed(2)}$
+                  {item.price }$
                 </p>
               </article>{" "}
             </li>
