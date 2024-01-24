@@ -25,7 +25,7 @@ export default function Catalog() {
     <>
       <Header />
       <main className="py-12 px-4 md:px-12 ">
-        <h1 className="text-5xl font-bold my-12 text-blue-950 mt-2">
+        <h1 className="text-center md:text text-5xl font-bold my-12 text-blue-950 mt-2">
           Products
         </h1>
         <h2 className="text-xl font-semibold mb-2">Filter :</h2>

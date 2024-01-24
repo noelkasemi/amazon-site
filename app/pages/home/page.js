@@ -22,9 +22,9 @@ export default function HomePage() {
           </button>
         </article>
       </main>
-      <section className="py-4 bg-[#eff0f5] px-12 space-y-12 mt-44 md:mt-0">
-        <h1 className="text-5xl font-bold  text-blue-950 mt-2">
-          Featured products
+      <section className="py-4 bg-[#eff0f5] px-2 md:px-12 space-y-12 mt-44 md:mt-0">
+        <h1 className="text-4xl text-center md:text-left md:text-5xl font-bold  text-blue-950 mt-24 md:mt-6">
+          Featured Products
         </h1>
         <ProductGrid products={products} numberOfProducts={4} />
       </section>
