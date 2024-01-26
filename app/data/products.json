@@ -1,123 +1,187 @@
 [
-    {
-      "title": "Bose Headphones 700, Noise Cancelling Bluetooth Over-Ear Wireless Headphones with Built-In Microphone for Clear Calls and Alexa Voice Control, Silver Luxe",
-      "id": 1,
-      "price": 264,
-      "description": "This is product 1, it is a great item!",
-      "image": "/image.jpg",
-      "Link": "https://amzn.to/47DS1i5"
-    },
-    {
-      "title": "Csasan Wireless Earbuds, 2023 Bluetooth Headphones 5.3 HiFi Stereo Earphones, 40H Playtime in-Ear Earbud, Bluetooth Earbud with Dual Mic Call, IP7 Waterproof Earphones Sport Headset for iOS",
-      "id": 2,
-      "price": 29.99,
-      "description": "This is product 2, it is an even better item!",
-      "image": "/image2.webp",
-      "Link": "https://amzn.to/47OoxxU"
-    },
-    {
-      "title": "Lenovo 3i Chromebook Laptop - 15.6 Inch Full HD Lenovo Laptop - 8GB Memory - 64GB Storage - Intel Celeron N4500 – 2023 model",
-      "id": 3,
-      "price": 274.99,
-      "description": "This is product 3, it is the best item!",
-      "image": "/image3.jpg",
-      "Link": "https://amzn.to/47HD26D"
-    },
-    {
-      "title": "HyperX Cloud Alpha - Gaming Headset, Dual Chamber Drivers, Legendary Comfort, Aluminum Frame, Detachable Microphone, Works on PC, PS4, PS5, Xbox One/ Series X|S, Nintendo Switch and Mobile – Red",
-      "id": 4,
-      "price": 79.98,
-      "description": "This is product 4, it is a special one.",
-      "image": "/hyperX.jpg",
-      "Link": "https://amzn.to/3UaWiXe"
-    },
-    {
-      "title": "Logitech G502 HERO High Performance Wired Gaming Mouse, HERO 25K Sensor, 25,600 DPI, RGB, Adjustable Weights, 11 Programmable Buttons, On-Board Memory, PC / Mac",
-      "id": 5,
-      "price": 48.58,
-      "description": "This is product 5, it's not as good as the others",
-      "image": "/mouse.webp",
-      "Link": "https://amzn.to/47IVz2o"
-    },
-    {
-      "title": "Razer BlackWidow V4 X - Mechanical Gaming Keyboard: Green Switches Tactile & Clicky - 6 Dedicated Macro Keys - Chroma RGB - Doubleshot ABS Keycaps - Media Controls - Sound Dampening & Stabilizers",
-      "id": 6,
-      "price": 129.99,
-      "description": "This is product 6, it's not as good as the others",
-      "image": "/keyboard.jpg",
-      "Link": "https://amzn.to/3Sr9k1r"
-    },
-    {
-      "title": "RGB Mousepad Led Mouse Pad, Large Mouse Pad,Led and Big Mouse mat",
-      "id": 7,
-      "price": 11.99,
-      "description": "This is product 7, it's not as good as the others",
-      "image": "/mousepad.jpg",
-      "Link": "https://amzn.to/3U9wydz"
-    },
-    {
-      "title": "Sticker Printer - Mini Thermal Printer, T02 Sticker Maker Machine, Portable Bluetooth Pocket Phone Printer for Anatomy Flashcards, Journal, Photos, Notes, Kids Gift, Green",
-      "id": 9,
-      "price": 37.49,
-      "description": "This is product 9, it's not as good as the others",
-      "image": "/printer.jpg",
-      "Link": "https://amzn.to/428MGOB"
-    },
-    {
-      "title": "Keychain Spinner Toy, Portable Keyring Spinner Toy, Finger Keychain Spinner Portable Keychain Spinner, Novelty Keychains for Finger Exercise(2PCS)",
-      "id": 10,
-      "price": 9.99,
-      "description": "This is product 10, it's not as good as the others",
-      "image": "/keychain.jpg",
-      "Link": "https://amzn.to/3u5lVOk"
-    },
-        {
-      "title": "Ultrasonic Humidifiers for Bedroom, cool mist humidifiers Anti Gravity Water Drop with LED Clock Display, 36dB Quiet Air Humidifier with Night Light for room Office 800ml",
-      "id": 11,
-      "price": 59.99,
-      "description": "This is product 11, it's not as good as the others",
-      "image": "/humidifier.jpg",
-      "Link": "https://amzn.to/3vLSzVH"
-    },
-        {
-      "title": "Z ZICOME Magnetic Hourglass Decorative Sand Timer with a Iron Base for Desk Decoration Black",
-      "id": 12,
-      "price": 14.99,
-      "description": "This is product 12, it's not as good as the others",
-      "image": "/hourglass.jpg",
-      "Link": "https://amzn.to/3vObI9w"
-    },    {
-      "title": "CheemZ Toddler Gyro Bowl - Baby Magic Bowl - 360 for Kids Age 1 to 3 Years - Spill-Resistant with Lid and 360° Rotations - Mess-Free Snack Bowls in Blue, Compact Size: 17 x 17 x 7cm",
-      "id": 13,
-      "price": 11.48,
-      "description": "This is product 13, it's not as good as the others",
-      "image": "/gyrobowl.jpg",
-      "Link": "https://amzn.to/4baz0Xf"
-    },
-    {
-      "title": "Waboba The Original Moon Ball - Hyper Bouncy Ball - All Ages Extreme Bounce and Fun - Perfect for Active Play and Outdoor Games",
-      "id": 14,
-      "price": 12.99,
-      "description": "This is product 14, it's not as good as the others",
-      "image": "/moonball.jpg",
-      "Link": "https://amzn.to/4b7dy5E"
-    },
-    {
-      "title": "Self Stirring Coffee Mug 2 Pieces Rotating Home Office Travel Stirring Mug Automatic Magnetic Mug Stirring Coffee Mug Self Stirring Stainless Steel Mug Christmas Gift Birthday Gift (White, Dark Blue)",
-      "id": 15,
-      "price": 27.99,
-      "description": "This is product 15, it's not as good as the others",
-      "image": "/stirringmug.jpg",
-      "Link": "https://amzn.to/4b8mLdW"
-    },
-    {
-      "title": "Mubarek Northern Lights Aurora Projector Light, 18 Colors Lighting Aurora Projector Mood Lighting,Remote Timer Ceiling Projector Lights for Bedroom,Northern Lights Lamp Room Decor for Teen Girls Gifts",
-      "id": 16,
-      "price": 26.89,
-      "description": "This is product 16, it's not as good as the others",
-      "image": "/auroralamp.jpg",
-      "Link": "https://amzn.to/3Obpx8b"
-    }
+  {
+    "title": "Bose Headphones 700, Noise Cancelling Bluetooth Over-Ear Wireless Headphones with Built-In Microphone for Clear Calls and Alexa Voice Control, Silver Luxe",
+    "id": 1,
+    "price": 264,
+    "description": "This is product 1, it is a great item!",
+    "image": "/image.jpg",
+    "Link": "https://amzn.to/47DS1i5"
+  },
+  {
+    "title": "Csasan Wireless Earbuds, 2023 Bluetooth Headphones 5.3 HiFi Stereo Earphones, 40H Playtime in-Ear Earbud, Bluetooth Earbud with Dual Mic Call, IP7 Waterproof Earphones Sport Headset for iOS",
+    "id": 2,
+    "price": 29.99,
+    "description": "This is product 2, it is an even better item!",
+    "image": "/image2.webp",
+    "Link": "https://amzn.to/47OoxxU"
+  },
+  {
+    "title": "Lenovo 3i Chromebook Laptop - 15.6 Inch Full HD Lenovo Laptop - 8GB Memory - 64GB Storage - Intel Celeron N4500 – 2023 model",
+    "id": 3,
+    "price": 274.99,
+    "description": "This is product 3, it is the best item!",
+    "image": "/image3.jpg",
+    "Link": "https://amzn.to/47HD26D"
+  },
+  {
+    "title": "HyperX Cloud Alpha - Gaming Headset, Dual Chamber Drivers, Legendary Comfort, Aluminum Frame, Detachable Microphone, Works on PC, PS4, PS5, Xbox One/ Series X|S, Nintendo Switch and Mobile – Red",
+    "id": 4,
+    "price": 79.98,
+    "description": "This is product 4, it is a special one.",
+    "image": "/hyperX.jpg",
+    "Link": "https://amzn.to/3UaWiXe"
+  },
+  {
+    "title": "Logitech G502 HERO High Performance Wired Gaming Mouse, HERO 25K Sensor, 25,600 DPI, RGB, Adjustable Weights, 11 Programmable Buttons, On-Board Memory, PC / Mac",
+    "id": 5,
+    "price": 48.58,
+    "description": "This is product 5, it's not as good as the others",
+    "image": "/mouse.webp",
+    "Link": "https://amzn.to/47IVz2o"
+  },
+  {
+    "title": "Razer BlackWidow V4 X - Mechanical Gaming Keyboard: Green Switches Tactile & Clicky - 6 Dedicated Macro Keys - Chroma RGB - Doubleshot ABS Keycaps - Media Controls - Sound Dampening & Stabilizers",
+    "id": 6,
+    "price": 129.99,
+    "description": "This is product 6, it's not as good as the others",
+    "image": "/keyboard.jpg",
+    "Link": "https://amzn.to/3Sr9k1r"
+  },
+  {
+    "title": "RGB Mousepad Led Mouse Pad, Large Mouse Pad,Led and Big Mouse mat",
+    "id": 7,
+    "price": 11.99,
+    "description": "This is product 7, it's not as good as the others",
+    "image": "/mousepad.jpg",
+    "Link": "https://amzn.to/3U9wydz"
+  },
+  {
+    "title": "Sticker Printer - Mini Thermal Printer, T02 Sticker Maker Machine, Portable Bluetooth Pocket Phone Printer for Anatomy Flashcards, Journal, Photos, Notes, Kids Gift, Green",
+    "id": 9,
+    "price": 37.49,
+    "description": "This is product 9, it's not as good as the others",
+    "image": "/printer.jpg",
+    "Link": "https://amzn.to/428MGOB"
+  },
+  {
+    "title": "Keychain Spinner Toy, Portable Keyring Spinner Toy, Finger Keychain Spinner Portable Keychain Spinner, Novelty Keychains for Finger Exercise(2PCS)",
+    "id": 10,
+    "price": 9.99,
+    "description": "This is product 10, it's not as good as the others",
+    "image": "/keychain.jpg",
+    "Link": "https://amzn.to/3u5lVOk"
+  },
+  {
+    "title": "Ultrasonic Humidifiers for Bedroom, cool mist humidifiers Anti Gravity Water Drop with LED Clock Display, 36dB Quiet Air Humidifier with Night Light for room Office 800ml",
+    "id": 11,
+    "price": 59.99,
+    "description": "This is product 11, it's not as good as the others",
+    "image": "/humidifier.jpg",
+    "Link": "https://amzn.to/3vLSzVH"
+  },
+  {
+    "title": "Z ZICOME Magnetic Hourglass Decorative Sand Timer with a Iron Base for Desk Decoration Black",
+    "id": 12,
+    "price": 14.99,
+    "description": "This is product 12, it's not as good as the others",
+    "image": "/hourglass.jpg",
+    "Link": "https://amzn.to/3vObI9w"
+  },
+  {
+    "title": "CheemZ Toddler Gyro Bowl - Baby Magic Bowl - 360 for Kids Age 1 to 3 Years - Spill-Resistant with Lid and 360° Rotations - Mess-Free Snack Bowls in Blue, Compact Size: 17 x 17 x 7cm",
+    "id": 13,
+    "price": 11.48,
+    "description": "This is product 13, it's not as good as the others",
+    "image": "/gyrobowl.jpg",
+    "Link": "https://amzn.to/4baz0Xf"
+  },
+  {
+    "title": "Waboba The Original Moon Ball - Hyper Bouncy Ball - All Ages Extreme Bounce and Fun - Perfect for Active Play and Outdoor Games",
+    "id": 14,
+    "price": 12.99,
+    "description": "This is product 14, it's not as good as the others",
+    "image": "/moonball.jpg",
+    "Link": "https://amzn.to/4b7dy5E"
+  },
+  {
+    "title": "Self Stirring Coffee Mug 2 Pieces Rotating Home Office Travel Stirring Mug Automatic Magnetic Mug Stirring Coffee Mug Self Stirring Stainless Steel Mug Christmas Gift Birthday Gift (White, Dark Blue)",
+    "id": 15,
+    "price": 27.99,
+    "description": "This is product 15, it's not as good as the others",
+    "image": "/stirringmug.jpg",
+    "Link": "https://amzn.to/4b8mLdW"
+  },
+  {
+    "title": "Mubarek Northern Lights Aurora Projector Light, 18 Colors Lighting Aurora Projector Mood Lighting,Remote Timer Ceiling Projector Lights for Bedroom,Northern Lights Lamp Room Decor for Teen Girls Gifts",
+    "id": 16,
+    "price": 26.89,
+    "description": "This is product 16, it's not as good as the others",
+    "image": "/auroralamp.jpg",
+    "Link": "https://amzn.to/3Obpx8b"
+  },
+  {
+    "title": "Missyou Hologram Fan Stand with Multi-Function Base, Height 39.4 to 69 Inch, 150 Pounds Load-Bearing for A Variety of Hologram Fans",
+    "id": 17,
+    "price": 90.0,
+    "description": "This is product 17, it's not as good as the others",
+    "image": "/ledfan.jpg",
+    "Link": "https://amzn.to/3SvZivZ"
+  },
+  {
+    "title": "Portable Blender, USB Rechargeable Mini Juicer Blender, Personal Size Blender for Juices, Shakes and Smoothies, Best gift for relatives and friends (Pink)",
+    "id": 18,
+    "price": 29.99,
+    "description": "This is product 18, it's not as good as the others",
+    "image": "/blender.jpg",
+    "Link": "https://amzn.to/42hKMuQ"
+  },
+  {
+    "title": "Tablet Floor Stand with Double Weight Base, Overhead Bed Phone Mount Height Adjustable Arm Stretchable Stand Holder, Compatible with iPad Mini Air Pro, Galaxy Tab, Kindle, Switch, Cell Phones-Black",
+    "id": 19,
+    "price": 49.99,
+    "description": "This is product 19, it's not as good as the others",
+    "image": "/stand.jpg",
+    "Link": "https://amzn.to/4bge6pZ"
+  },
+  {
+    "title": "Washable Reusable Gel Lint Roller for Pet Hair, Tecogue Portable Dog Cat Pet Hair Remover for Clothes, Laundries, Sticky Cleaner, Dust Fuzz Fur for Travel Household-Pink",
+    "id": 20,
+    "price": 9.99,
+    "description": "This is product 20, it's not as good as the others",
+    "image": "/roller.webp",
+    "Link": "https://amzn.to/3OlsVgZ"
+  },
+  {
+    "title": "Wuohutu 3 in 1 Cube Wireless Charger for MagSafe, 15W Fast Wireless Charging Station Compatible with MagSafe Charger for iPhone 15/14/13/12 Series, Apple Watch, AirPods (Adapter Included)",
+    "id": 21,
+    "price": 49.92,
+    "description": "This is product 21, it's not as good as the others",
+    "image": "/3in1chager.jpg",
+    "Link": "https://amzn.to/3UaThWN"
+  },
+  {
+    "title": "lumelit Cat Toys Interactive For Indoor Cats, Motion Activate Automatic Cat Toy, Cat Ball Toy With Bird Sound And Lights, Blue",
+    "id": 22,
+    "price": 27.99,
+    "description": "This is product 22, it's not as good as the others",
+    "image": "/spinball.jpg",
+    "Link": "https://amzn.to/47SWZaP"
+  },
+  {
+    "title": "Baseus Magsafe Car Mount, Magnetic Phone Holder for Car, Compatible with iPhone 15, 14, 13, 12 Pro Plus Max Mini, Bendable Memory Titanium Alloy for Dashboard, Windshield",
+    "id": 23,
+    "price": 16.98,
+    "description": "This is product 23, it's not as good as the others",
+    "image": "/baseus.jpg",
+    "Link": "https://amzn.to/3UeLfvU"
+  },
 
-
-  ]
+  {
+    "title": "Electric Water Gun for Boys Girls Automatic Squirt Gun Toys, Super Water Soaker Long Range High Pressure Capacity Strongest World Most Powerful Water Gun Fighting Toy Summer Gifts for Kids Adults",
+    "id": 24,
+    "price": 39.99,
+    "description": "This is product 24, it's not as good as the others",
+    "image": "/watergun.jpg",
+    "Link": "https://amzn.to/48N37Tj"
+  }
+]
